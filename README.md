@@ -15,3 +15,7 @@ Instal All dependencies in this project
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+###`link to app`
+
+https://url-shortner-amitk.onrender.com
